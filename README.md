@@ -14,6 +14,7 @@ Feel free to send me a message, I like to talk about everything.
 [![Java](pic/java.svg)](https://www.java.com/)
 [![Spring](pic/spring.svg)](https://spring.io/)
 [![Android Studio](pic/androidstudio.svg)](https://developer.android.com/studio)
+[![Ionic](pic/ionic.svg)](https://ionicframework.com/)
 [![MySQL](pic/mysql.svg)](https://www.mysql.com)
 [![MariaDB](pic/mariadb.svg)](https://mariadb.org/)
 [![Arch Linux](pic/archlinux.svg)](https://archlinux.org)
